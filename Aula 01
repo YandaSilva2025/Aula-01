@@ -10,10 +10,12 @@
 
 <body>
     <header>
-        <img src="img/avatar-perfil.png" alt="avatar do Yan" srcset="">
-        <p>Eu sou Yan_</p>
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+        <p>Eu sou Fernanda_</p>
         <h1>Eu ensino Programação</h1>
-        <p>Sou um Super Heroi, ninguem pode saber da minha identidade secreta, estou aqui para proteger a humanidade</p>
+        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
+            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
+            que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
             <p>HTML</p>
